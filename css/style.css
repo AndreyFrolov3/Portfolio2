@@ -4,6 +4,9 @@ html, body {
 .header{
     background: url(image/back.jfif);
 }
+.header_about {
+    color:  black;
+}
 .header_fio {
     font-weight: 700;
 }
